@@ -1,0 +1,15 @@
+{
+  "name": "gulp-clobber-example",
+  "version": "1.0.0",
+  "description": "Example gulp-clobber project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-watch": "^4.3.3"
+  }
+}

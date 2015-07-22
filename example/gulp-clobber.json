@@ -1,0 +1,7 @@
+{
+  "scriptrunner": {
+    "jdbc": "jdbc:oracle:thin:@localhost:1521:xe",
+    "user": "promotemgr",
+    "password": "vagrant"
+  }
+}
